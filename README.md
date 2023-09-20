@@ -2,7 +2,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Junior Penetration Tester (eJPT), INE Security - In Progress]()
+- [Junior Penetration Tester (eJPT), INE Security - In Progress](https://github.com/christopherandrade1)
 - [Google Cybersecurity Certificate, Coursera - Sep 2023](https://www.coursera.org/account/accomplishments/specialization/certificate/SKT45UPJWB8P)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
