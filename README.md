@@ -9,7 +9,7 @@
 
 - [Azure Sentinel (SIEM)](https://github.com/)
 - [Vulnerability Management with Nessus](https://github.com/)
-- [File Integrity Monitor](https://github.com/)
+- [File Integrity Monitor](https://github.com/christopherandrade1/ps-file-integrity-monitor)
 
 <h2>📺 Popular YouTube Videos</h2>
 
