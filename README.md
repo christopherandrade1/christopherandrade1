@@ -2,8 +2,8 @@
 
 <h2>📄 Certifications</h2>
 
-- [Certified in Cybersecurity (CC), ISC2 - In Progress](https://github.com/)
-- [Google Cybersecurity Certificate, Coursera - Sep 2023](https://github.com/)
+- [Certified in Cybersecurity (CC), ISC2 - In Progress]()
+- [Google Cybersecurity Certificate, Coursera - Sep 2023](https://www.coursera.org/account/accomplishments/specialization/certificate/SKT45UPJWB8P)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
