@@ -7,13 +7,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Sentinel (SIEM)](https://github.com/)
-- [Vulnerability Management with Nessus](https://github.com/)
-- [File Integrity Monitor](https://github.com/christopherandrade1/ps-file-integrity-monitor)
+- [Automating Pentesting](https://github.com/)
+- [Active Directory Administration](https://github.com/)
+- [Vulnerability Scanner](https://github.com/)
+- [Network Traffic Analysis](https://github.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/)
+- [Cybersecurity](https://www.youtube.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
