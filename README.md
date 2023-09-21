@@ -8,7 +8,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Automating Pentesting](https://github.com/christopherandrade1)
-- [Active Directory Administration](https://github.com/christopherandrade1)
+- [Active Directory Home Lab](https://github.com/christopherandrade1)
 - [Vulnerability Scanner](https://github.com/christopherandrade1)
 - [Network Traffic Analysis](https://github.com/christopherandrade1/NetworkTrafficAnalysis)
 
