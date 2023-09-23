@@ -10,7 +10,7 @@
 - [Automated Pentesting (PDF Extractions)](https://github.com/christopherandrade1/AutomatedPentesting)
 - [Active Directory Home Lab](https://github.com/christopherandrade1/ActiveDirectoryHomeLab)
 - [Network Traffic Analysis](https://github.com/christopherandrade1/NetworkTrafficAnalysis)
-- [Vulnerability Scanner](https://github.com/christopherandrade1)
+- [Vulnerability Management](https://github.com/christopherandrade1)
 
 <h2> 🤳 Connect with me:</h2>
 
